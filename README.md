@@ -12,7 +12,7 @@ npm install
 
 ## Usage
 
-Create a js file in the roor to the project, and call it mong-pass. Then store your MongoDB password.
+Create a js file in the root to the project, and call it mong-pass. Then store your MongoDB password.
 
 ```javascript
 const mongoose_password = "<type here your personal MongoDB password>";
@@ -22,7 +22,7 @@ module.exports = mongoose_password;
 
 ## Testing the API
 
-[Postman](https://www.postman.com/product/what-is-postman/) and [Insomnia](https://insomnia.rest/) are the main tools carry out CRUD operations.
+[Postman](https://www.postman.com/product/what-is-postman/) and [Insomnia](https://insomnia.rest/) are the main tools to carry out CRUD operations.
 
 ## License
 
