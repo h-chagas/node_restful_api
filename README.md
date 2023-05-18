@@ -20,9 +20,9 @@ const mongoose_password = "<type here your personal MongoDB password>";
 module.exports = mongoose_password;
 ```
 
-## Updated often
+## Testing the API
 
-Warning: This API will be updated constantly. The goal is to build the most complete API to be used in a React frontend project.
+[Postman](https://www.postman.com/product/what-is-postman/) and [Insomnia](https://insomnia.rest/) are the main tools carry out CRUD operations.
 
 ## License
 
